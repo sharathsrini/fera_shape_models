@@ -1,0 +1,27 @@
+Gas Forward Curve — EDA summary
+============================================================
+Records (wide): (4097, 39)
+Records (long): (147492, 11)
+Date range:     2021-01-04  →  2026-05-11
+Trade dates:    1370
+Markets:        ['JKM', 'THE', 'TTF']
+Tenors:         M1 .. M36 (monthly forward)
+NaNs:           0
+
+Per-market record count:
+MARKET
+THE    1370
+TTF    1369
+JKM    1358
+
+Front-month price by market:
+         count       mean        std      min        25%        50%        75%         max
+MARKET                                                                                    
+JKM     1358.0  50.604763  30.435506  13.7763  31.192025  38.312969  58.887362  168.311833
+THE     1370.0  57.920107  45.623581  15.8650  32.750000  39.828850  65.386825  319.050000
+TTF     1369.0  57.298845  45.549780  15.5000  31.900000  39.184200  64.300000  318.500000
+
+PCA — components needed for 95% / 99% variance on shape-normalized curves:
+  THE: 95% → 6 PCs,  99% → 13 PCs
+  JKM: 95% → 8 PCs,  99% → 18 PCs
+  TTF: 95% → 6 PCs,  99% → 14 PCs

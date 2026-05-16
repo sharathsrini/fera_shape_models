@@ -1,0 +1,7 @@
+model,n_params,best_epoch,best_val_loss,wall_time_s,ckpt
+Conv1d_lat8,18081,13,0.0030892630041177782,7.258461236953735,/sessions/confident-upbeat-meitner/mnt/ae-shape/results/checkpoints/Conv1d_lat8.pt
+Dense_lat6,10426,20,0.014402557696614946,3.6231250762939453,/sessions/confident-upbeat-meitner/mnt/ae-shape/results/checkpoints/Dense_lat6.pt
+LSTM_lat8,13993,7,0.017122535833290646,6.892615079879761,/sessions/confident-upbeat-meitner/mnt/ae-shape/results/checkpoints/LSTM_lat8.pt
+Transformer_lat8,49641,2,0.01918240756328617,20.58742642402649,/sessions/confident-upbeat-meitner/mnt/ae-shape/results/checkpoints/Transformer_lat8.pt
+BetaVAE_lat6_b4,9808,16,0.022133928590587208,2.796375036239624,/sessions/confident-upbeat-meitner/mnt/ae-shape/results/checkpoints/BetaVAE_lat6_b4.pt
+VAE_lat6,9808,14,0.022244038060307503,2.624561071395874,/sessions/confident-upbeat-meitner/mnt/ae-shape/results/checkpoints/VAE_lat6.pt

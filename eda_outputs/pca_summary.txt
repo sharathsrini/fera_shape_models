@@ -1,0 +1,3 @@
+THE: 95% var → 6 PCs,  99% var → 13 PCs
+JKM: 95% var → 8 PCs,  99% var → 18 PCs
+TTF: 95% var → 6 PCs,  99% var → 14 PCs
